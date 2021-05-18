@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Servicio.WebAPI5\Deti.Ecommerce.Servicio.WebAPI5.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Servicio.WebAPI5\Deti.Ecommerce.Servicio.WebAPI5.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.0" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="5.0.0" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.DTO\Deti.Ecommerce.Aplicacion.DTO.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.Interface\Deti.Ecommerce.Aplicacion.Interface.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.Main\Deti.Ecommerce.Aplicacion.Main.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.Validator\Deti.Ecommerce.Aplicacion.Validator.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Dominio.Core\Deti.Ecommerce.Dominio.Core.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Dominio.Entity\Deti.Ecommerce.Dominio.Entity.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Dominio.Interface\Deti.Ecommerce.Dominio.Interface.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Infraestructura.Data\Deti.Ecommerce.Infraestructura.Data.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Infraestructura.Interface\Deti.Ecommerce.Infraestructura.Interface.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Infraestructura.Repository\Deti.Ecommerce.Infraestructura.Repository.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Transversal.Common\Deti.Ecommerce.Transversal.Common.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Transversal.Logging\Deti.Ecommerce.Transversal.Logging.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Transversal.Mapper\Deti.Ecommerce.Transversal.Mapper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Deti.Ecommerce.Servicio.WebAPI5.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

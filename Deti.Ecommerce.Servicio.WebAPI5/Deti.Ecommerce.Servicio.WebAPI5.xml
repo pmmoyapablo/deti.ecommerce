@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Deti.Ecommerce.Servicio.WebAPI5</name>
+    </assembly>
+    <members>
+        <member name="M:Deti.Ecommerce.Servicio.WebAPI5.Controllers.CustomersController.Post(Deti.Ecommerce.Aplicacion.DTO.CustomerDTO)">
+            <summary>
+            Crea un Nuevo Cliente
+            </summary>
+            <param name="customerDto">Cliente Nuevo</param>
+            <returns></returns>
+        </member>
+        <member name="M:Deti.Ecommerce.Servicio.WebAPI5.Controllers.CustomersController.Put(Deti.Ecommerce.Aplicacion.DTO.CustomerDTO)">
+            <summary>
+            Acualiza un Cliente existente
+            </summary>
+            <param name="customerDto">Cliente a actualizar</param>
+            <returns></returns>
+        </member>
+        <member name="M:Deti.Ecommerce.Servicio.WebAPI5.Controllers.CustomersController.Delete(System.String)">
+            <summary>
+            Elimina un Cliente existente
+            </summary>
+            <param name="customerId">Cliente a eliminar</param>
+            <returns></returns>
+        </member>
+        <member name="M:Deti.Ecommerce.Servicio.WebAPI5.Controllers.CustomersController.Get(System.String)">
+            <summary>
+            Obtiene un Cliente especifico
+            </summary>
+            <param name="customerId">Id de Cliente</param>
+            <returns></returns>
+        </member>
+        <member name="M:Deti.Ecommerce.Servicio.WebAPI5.Controllers.CustomersController.Get">
+            <summary>
+            Obtiene todos los Clientes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Deti.Ecommerce.Servicio.WebAPI5.Controllers.UsersController.Authenticate(Deti.Ecommerce.Aplicacion.DTO.UsersDTO)">
+            <summary>
+            Autentica un Usuario y le genera su Token
+            </summary>
+            <param name="userDTO">Usuario</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

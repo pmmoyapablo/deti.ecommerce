@@ -1,0 +1,12 @@
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.deps.json
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.csprojAssemblyReference.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.csproj.CopyComplete
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Logging\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Logging.pdb

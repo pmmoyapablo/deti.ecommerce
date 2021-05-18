@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "uuELu1ZGaVXwldW2Tl+hPu1Z+b4z88fT8SY/gudbOzSNKWiu0bCAPbGGffkOdvpcAhmTZauyGTPFNhvqQG4Ttw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmoya\\source\\repos\\Deti.Ecommerce\\Deti.Ecommerce.Aplicacion.Validator\\Deti.Ecommerce.Aplicacion.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmoya\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
+    "C:\\Users\\pmoya\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.1.0\\fluentvalidation.dependencyinjectionextensions.10.1.0.nupkg.sha512",
+    "C:\\Users\\pmoya\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\pmoya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

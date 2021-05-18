@@ -1,0 +1,8 @@
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.deps.json
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Common\obj\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.pdb

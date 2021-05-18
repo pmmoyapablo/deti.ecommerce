@@ -1,0 +1,12 @@
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.deps.json
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.csprojAssemblyReference.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.AssemblyInfoInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.AssemblyInfo.cs
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.csproj.CopyComplete
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Validator\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Validator.pdb

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.DTO\Deti.Ecommerce.Aplicacion.DTO.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.Interface\Deti.Ecommerce.Aplicacion.Interface.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Aplicacion.Validator\Deti.Ecommerce.Aplicacion.Validator.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Dominio.Entity\Deti.Ecommerce.Dominio.Entity.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Dominio.Interface\Deti.Ecommerce.Dominio.Interface.csproj" />
+    <ProjectReference Include="..\Deti.Ecommerce.Transversal.Common\Deti.Ecommerce.Transversal.Common.csproj" />
+  </ItemGroup>
+
+</Project>

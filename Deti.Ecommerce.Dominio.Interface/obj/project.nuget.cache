@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oQ9OjbbAlIBg82Lv6ydY79+ks6YGn7OI5HPFwY+C5Ct3im6MCSpJQD3UznyI71HG5/gMX3AfE36TVhTe758OUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pmoya\\source\\repos\\Deti.Ecommerce\\Deti.Ecommerce.Dominio.Interface\\Deti.Ecommerce.Dominio.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pmoya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

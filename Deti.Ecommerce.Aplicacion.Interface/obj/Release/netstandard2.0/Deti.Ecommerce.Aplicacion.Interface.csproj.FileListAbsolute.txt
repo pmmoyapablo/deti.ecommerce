@@ -1,0 +1,14 @@
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.deps.json
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\bin\Release\netstandard2.0\Deti.Ecommerce.Transversal.Common.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.csprojAssemblyReference.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.AssemblyInfoInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.AssemblyInfo.cs
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.csproj.CopyComplete
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.Interface\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.Interface.pdb

@@ -1,0 +1,14 @@
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Dominio.Entity.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Deti.Ecommerce.Dominio.Entity.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.csprojAssemblyReference.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Deti.Ecommerce.Transversal.Mapper.pdb

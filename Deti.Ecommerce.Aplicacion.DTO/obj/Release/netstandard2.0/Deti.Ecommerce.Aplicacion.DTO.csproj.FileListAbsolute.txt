@@ -1,0 +1,9 @@
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.deps.json
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\bin\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.pdb
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.csprojAssemblyReference.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.AssemblyInfoInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.AssemblyInfo.cs
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.dll
+C:\Users\pmoya\source\repos\Deti.Ecommerce\Deti.Ecommerce.Aplicacion.DTO\obj\Release\netstandard2.0\Deti.Ecommerce.Aplicacion.DTO.pdb
